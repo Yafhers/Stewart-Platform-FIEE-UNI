@@ -1,21 +1,41 @@
-# Título del Proyecto
+# Sistema de Control sobre una Plataforma de Stewart 
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Una plataforma de Stewart es un robot en paralelo que posee una plataforma sujeta por 6 varillas (actuadores prismáticos) las cuales están unidas a servomotores. Las varillas colocadas en la placa superior se pueden mover en los seis grados de libertad en los que es posible mover un cuerpo libremente suspendido. Estos son los tres movimientos lineales x, y, z (lateral, longitudinal y vertical), y las tres rotaciones (x,y,z) .
 
-## Comenzando 🚀
+## Aplicaciones 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Medicina: Existe un amplio catálogo de prototipos utilizados en laboratorios como robots de asistencia en varios tipos de cirugías. Más allá de la cirugía, es posible encontrar este tipo de robots para aplicaciones de rehabilitación, principalmente del tobillo, donde sí se puede ver algún prototipo comercial.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+CNC: Otra de las aplicaciones más extendidas de estos robots es en CNC de alta velocidad, donde, para el mecanizado de materiales tradicionales de elevada dureza, los robots paralelos pueden llegar a mejorar las prestaciones de los robots serie.
+
+Pick and Place: Muchas de las grandes empresas de robots industriales incorporan en sus catálogos varios robots paralelos de entre 3 y 6 grados de libertad (Figura 3) para su uso en industrias relacionadas con el embalaje, empaquetado, almacenaje, ensamblaje, etc.
+
+Simuladores de Vuelo: Una de las primeras aplicaciones fue presentada en 1967 por Mr. Stewart el cual realizo una plataforma que serviría como entrenamiento para los primeros pilotos de ese entonces. Se coloca una cabina real de un avión permitiendo que esta tenga los mismos movimientos que tendría un avión real, permitiendo al piloto tener una experiencia más real e inmersiva del comportamiento del avión
+
+Simuladores de autos: Debido a que tiene 6 grados de libertad puede simular el movimiento de cualquier automóvil o trasbordador espacial al igual que los simuladores de vuelo.
+
+Celdas Solares: Debido a la movilidad de esta plataforma se puede implementar para auto posicionar las celdas solares y de esa manera obtener la mayor cantidad de luz posible.
+
+Otras aplicaciones: En la actualidad también se usan plataformas de Stewart en campos como la ubicación de telescopios y antenas parabólicas, y podría tener muchos mas usos debido a su versatilidad y libertad de movimiento.
 
 
-### Pre-requisitos 📋
+### Objetivos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Replicar una plataforma de Stewart completamente funcional y lo más estable posible.
 
-```
-Da un ejemplo
-```
+Obtener las ecuaciones necesarias mediante análisis matemático para realizar el movimiento de la plataforma de Stewart.
+
+Implementar el movimiento de la plataforma mediante 6 ejes para las pruebas del primer prototipo mediante un control Nunchuk de la Nintendo Wii.
+
+ Mediante el uso de una cámara Pixi 2 detectar la posición de una pelota roja ubicada sobre la plataforma de Stewart y controlar la posición de la plataforma para que la pelota se ubique al centro de la plataforma de manera autónoma.
+
+Desarrollar una interfaz gráfica la cual muestre en todo momento la posición de la pelota y la inclinación de la plataforma mediante alguna aplicación IOT o mediante NI LabView.
+
+Desarrollar un correcto algoritmo de control PID para posicionar la pelota al centro de la plataforma.
+
+Realizar un algoritmo de Computer Vision y Deep Learning para siempre detectar la posición de la pelota (en caso sea necesario), además el algoritmo debe reconocer los extremos de la plataforma para evitar que la pelota se caiga.
+
+Si todo sale bien, en un futuro se podría implementar el control de la pelota pero para resolver un laberinto ubicado encima de la plataforma de Stewart, y el algoritmo debe ser capaz de hacer que la pelota resuelva el laberinto de la manera más rápida posible.
 
 ### Instalación 🔧
 
