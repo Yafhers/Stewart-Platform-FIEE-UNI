@@ -2,7 +2,7 @@
 
 Una plataforma de Stewart es un robot en paralelo que posee una plataforma sujeta por 6 varillas (actuadores prismáticos) las cuales están unidas a servomotores. Las varillas colocadas en la placa superior se pueden mover en los seis grados de libertad en los que es posible mover un cuerpo libremente suspendido. Estos son los tres movimientos lineales x, y, z (lateral, longitudinal y vertical), y las tres rotaciones (x,y,z) .
 
-El objetivo de este proyecto es implementar un clasificador de objetos, pero a diferencia de otros proyectos tenemos el reto de lograr clasificar objetos mediante una Plataforma de Stewart, lo cual nos conlleva a una investigación sobre tecnicas de control y algoritmos de reconocimiento de imágenes.
+El objetivo de este proyecto es implementar un <span style="color:blue; font-weight:bold;">clasificador de objetos</span>, pero a diferencia de otros proyectos tenemos el reto de lograr clasificar objetos mediante una Plataforma de Stewart, lo cual nos conlleva a una investigación sobre tecnicas de control y algoritmos de reconocimiento de imágenes.
 
 ![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/FirstDesign.png)
 
