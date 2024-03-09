@@ -1,70 +1,67 @@
-# Clasificador de Objetos sobre una Plataforma de Stewart 🐲
+# Object Classifier on a Stewart Platform 🐲
 
-Una plataforma de Stewart es un robot en paralelo que posee una plataforma sujeta por 6 varillas (actuadores prismáticos) las cuales están unidas a servomotores. Las varillas colocadas en la placa superior se pueden mover en los seis grados de libertad en los que es posible mover un cuerpo libremente suspendido. Estos son los tres movimientos lineales x, y, z (lateral, longitudinal y vertical), y las tres rotaciones (x,y,z) .
+A Stewart platform is a parallel robot that has a platform supported by 6 rods (prismatic actuators) which are attached to servomotors. The rods placed on the top plate can move in the six degrees of freedom in which it is possible to move a freely suspended body. These are the three linear movements x, y, and z (lateral, longitudinal and vertical), and the three rotations (x, y, and z).
 
-El objetivo de este proyecto es implementar un <span style="color:blue; font-weight:bold;">clasificador de objetos</span>, pero a diferencia de otros proyectos tenemos el reto de lograr clasificar objetos mediante una Plataforma de Stewart, lo cual nos conlleva a una investigación sobre tecnicas de control y algoritmos de reconocimiento de imágenes.
+The objective of this project is to implement an <span style="color:blue; font-weight:bold;">object classifier</span>, but unlike other projects we have the challenge of classifying objects using a Stewart Platform, which leads to an investigation of control techniques and image recognition algorithms.
 
 ![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/FirstDesign.png)
 
-## Aplicaciones 🚀
+## Applications 🚀
 
-* Medicina: Existe un amplio catálogo de prototipos utilizados en laboratorios como robots de asistencia en varios tipos de cirugías. Más allá de la cirugía, es posible encontrar este tipo de robots para aplicaciones de rehabilitación, principalmente del tobillo, donde sí se puede ver algún prototipo comercial.
+* Medicine: There is a wide range of prototypes used in laboratories as assistance robots in various types of surgeries. Beyond surgery, it is possible to find this type of robots for rehabilitation applications, mainly of the ankle, where it is possible to see some commercial prototypes.
 
-* CNC: Otra de las aplicaciones más extendidas de estos robots es en CNC de alta velocidad, donde, para el mecanizado de materiales tradicionales de elevada dureza, los robots paralelos pueden llegar a mejorar las prestaciones de los robots serie.
+* Pick and Place: Many of the large industrial robot companies incorporate in their catalogs several parallel robots of between 3 and 6 degrees of freedom (Figure 3) for use in industries related to packaging, packing, warehousing, warehousing, assembly, etc.
 
-* Pick and Place: Muchas de las grandes empresas de robots industriales incorporan en sus catálogos varios robots paralelos de entre 3 y 6 grados de libertad (Figura 3) para su uso en industrias relacionadas con el embalaje, empaquetado, almacenaje, ensamblaje, etc.
+* Flight Simulators: One of the first applications was presented in 1967 by Mr. Stewart who made a platform that would serve as training for the first pilots of that time. A real cockpit of an airplane is placed allowing it to have the same movements that a real airplane would have, allowing the pilot to have a more realistic and immersive experience of the airplane's behavior.
 
-* Simuladores de Vuelo: Una de las primeras aplicaciones fue presentada en 1967 por Mr. Stewart el cual realizo una plataforma que serviría como entrenamiento para los primeros pilotos de ese entonces. Se coloca una cabina real de un avión permitiendo que esta tenga los mismos movimientos que tendría un avión real, permitiendo al piloto tener una experiencia más real e inmersiva del comportamiento del avión
+* Car Simulators: Because it has 6 degrees of freedom it can simulate the movement of any car or space shuttle just like the flight simulators.
 
-* Simuladores de autos: Debido a que tiene 6 grados de libertad puede simular el movimiento de cualquier automóvil o trasbordador espacial al igual que los simuladores de vuelo.
+* Solar Cells: Due to the mobility of this platform it can be implemented to auto position the solar cells to obtain the maximum amount of light possible.
 
-* Celdas Solares: Debido a la movilidad de esta plataforma se puede implementar para auto posicionar las celdas solares y de esa manera obtener la mayor cantidad de luz posible.
+## Materials 👻
 
-* Otras aplicaciones: En la actualidad también se usan plataformas de Stewart en campos como la ubicación de telescopios y antenas parabólicas, y podría tener muchos mas usos debido a su versatilidad y libertad de movimiento.
-
-## Materiales 👻
-
-* Servos MG90
+* MG90 Servos
 * ESP32
 * PCA9685
-* Batería Lipo 7.4v
-* Soporte para ESP32
+* 7.4v Lipo battery
+* Support for ESP32
 * AMB82 Mini Camera
 
 ![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/AMB82Mini.png)
 
-## Respecto a la Camara 🎲
+## About the Camera 🎲
 
-El motivo de usar una camara en nuestro proyecto es porque queremos situar la camara por encima de la plataforma para que esta detecte la posición exacta del objeto que se encuentre sobre la plataforma, y además de eso tambien detectar que objeto se encuentra sobre la plataforma. Dependiendo del tipo de objeto la plataforma se inclinará a uno de los lados para de esa manera enviar el objeto a su contenedor respectivo para así lograr clasificar los objetos.
-
+The reason for using a camera in our project is because we want to place the camera above the platform so that it detects the exact position of the object that is on the platform, and in addition to that it also detects which object is on the platform. Depending on the type of object the platform will tilt to one of the sides to send the object to its respective container in order to classify the objects.
 ![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/CameraSupport.png)
 
-## Nuestros Avances 🎃
+## Our Progress 🎃
 
-Nuestra primera reunión para emsanblar la base de la plataforma de Stewart y armar el circuito electrónico:
+Our first meeting to assemble the base of Stewart's platform and set up the electronic circuit:
 
-![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/CameraSupport.png)
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/1.jpg)
 
-## Autores ✒️
+## The ABET fair 🎨
 
-Entre las personas que estamos desarrollando el proyecto estamos:
+ABET, formerly known as the Accreditation Board for Engineering and Technology, is an organization that assesses and accredits educational programs in fields such as engineering and technology, ensuring the quality of education in these domains. The ABET fair serves as a platform where students, academics, professionals, and industries come together to share advancements, research, and innovative projects. Participation in this fair offers visibility, collaboration opportunities, and expert feedback, thus fostering innovation and progress within the discipline.
 
-* **Yafhers Mendoza** - *Líder del Equipo* - [yafhers](https://www.linkedin.com/in/yafhers-alonso-mendoza-c%C3%A9spedes-793655268/)
-* **Eliceo Ocampo** - *Integrante del Equipo* - [eliceo](https://www.linkedin.com/in/ocampo-ccoicca-eliceo-5b42a2221/)
-* **Alejandro Pacheco** - *Integrante del Equipo* - [alejandro](#fulanito-de-tal)
-* **Adrian Burga** - *Integrante del Equipo* - [adrian](#fulanito-de-tal)
-* **Daniel Cuaresma** - *Integrante del Equipo* - [daniel](#fulanito-de-tal)
+The ABET fair typically spans about a month, and our team has been preparing for two months, with a projected timeline of six months to complete and present our project.
 
-## Licencia 📄
+## Authors ✒️
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Among the people who are developing the project are:
 
-## Expresiones de Gratitud 🎁
+* **Yafhers Mendoza** - *Team Leader* - [yafhers](https://www.linkedin.com/in/yafhers-alonso-mendoza-c%C3%A9spedes-793655268/)
+* **Eliceo Ocampo** - *Team Member* - [eliceo](https://www.linkedin.com/in/ocampo-ccoicca-eliceo-5b42a2221/)
+* **Alejandro Pacheco** - *Team Member* - [alejandro](#fulanito-de-tal)
+* **Adrian Burga** - *Team Member* - [adrian](#fulanito-de-tal)
+* **Daniel Cuaresma** - *Team Member* - [daniel](#fulanito-de-tal)
 
-* Comentanos algo sobre el proyecto o si tienes alguna sugerencia 📢
-* Invita un café ☕ a alguien del equipo. 
-* Escribenos al correo para cualquier consulta sobre el proyecto 🤓
-* Correo: yafhers.mendoza.c@uni.pe ✉
+## Expressions of Gratitude 🎁
 
+* Tell us something about the project or if you have any suggestions 📢
+* Invite someone from the team for a coffee ☕. 
+* Write us to the mail for any question about the project 🤓
+* Mail: yafhers.mendoza.c@uni.pe ✉
+  
 ---
-⌨️ con ❤️ por [Yafhers](https://github.com/Yafhers) 😊
+⌨️ with ❤️ by [Yafhers](https://github.com/Yafhers) 😊
