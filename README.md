@@ -6,19 +6,19 @@ Una plataforma de Stewart es un robot en paralelo que posee una plataforma sujet
 
 ## Aplicaciones 🚀
 
-*Medicina: Existe un amplio catálogo de prototipos utilizados en laboratorios como robots de asistencia en varios tipos de cirugías. Más allá de la cirugía, es posible encontrar este tipo de robots para aplicaciones de rehabilitación, principalmente del tobillo, donde sí se puede ver algún prototipo comercial.
+* Medicina: Existe un amplio catálogo de prototipos utilizados en laboratorios como robots de asistencia en varios tipos de cirugías. Más allá de la cirugía, es posible encontrar este tipo de robots para aplicaciones de rehabilitación, principalmente del tobillo, donde sí se puede ver algún prototipo comercial.
 
-*CNC: Otra de las aplicaciones más extendidas de estos robots es en CNC de alta velocidad, donde, para el mecanizado de materiales tradicionales de elevada dureza, los robots paralelos pueden llegar a mejorar las prestaciones de los robots serie.
+* CNC: Otra de las aplicaciones más extendidas de estos robots es en CNC de alta velocidad, donde, para el mecanizado de materiales tradicionales de elevada dureza, los robots paralelos pueden llegar a mejorar las prestaciones de los robots serie.
 
-*Pick and Place: Muchas de las grandes empresas de robots industriales incorporan en sus catálogos varios robots paralelos de entre 3 y 6 grados de libertad (Figura 3) para su uso en industrias relacionadas con el embalaje, empaquetado, almacenaje, ensamblaje, etc.
+* Pick and Place: Muchas de las grandes empresas de robots industriales incorporan en sus catálogos varios robots paralelos de entre 3 y 6 grados de libertad (Figura 3) para su uso en industrias relacionadas con el embalaje, empaquetado, almacenaje, ensamblaje, etc.
 
-*Simuladores de Vuelo: Una de las primeras aplicaciones fue presentada en 1967 por Mr. Stewart el cual realizo una plataforma que serviría como entrenamiento para los primeros pilotos de ese entonces. Se coloca una cabina real de un avión permitiendo que esta tenga los mismos movimientos que tendría un avión real, permitiendo al piloto tener una experiencia más real e inmersiva del comportamiento del avión
+* Simuladores de Vuelo: Una de las primeras aplicaciones fue presentada en 1967 por Mr. Stewart el cual realizo una plataforma que serviría como entrenamiento para los primeros pilotos de ese entonces. Se coloca una cabina real de un avión permitiendo que esta tenga los mismos movimientos que tendría un avión real, permitiendo al piloto tener una experiencia más real e inmersiva del comportamiento del avión
 
-*Simuladores de autos: Debido a que tiene 6 grados de libertad puede simular el movimiento de cualquier automóvil o trasbordador espacial al igual que los simuladores de vuelo.
+* Simuladores de autos: Debido a que tiene 6 grados de libertad puede simular el movimiento de cualquier automóvil o trasbordador espacial al igual que los simuladores de vuelo.
 
-*Celdas Solares: Debido a la movilidad de esta plataforma se puede implementar para auto posicionar las celdas solares y de esa manera obtener la mayor cantidad de luz posible.
+* Celdas Solares: Debido a la movilidad de esta plataforma se puede implementar para auto posicionar las celdas solares y de esa manera obtener la mayor cantidad de luz posible.
 
-*Otras aplicaciones: En la actualidad también se usan plataformas de Stewart en campos como la ubicación de telescopios y antenas parabólicas, y podría tener muchos mas usos debido a su versatilidad y libertad de movimiento.
+* Otras aplicaciones: En la actualidad también se usan plataformas de Stewart en campos como la ubicación de telescopios y antenas parabólicas, y podría tener muchos mas usos debido a su versatilidad y libertad de movimiento.
 
 ## Autores ✒️
 
