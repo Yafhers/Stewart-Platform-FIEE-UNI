@@ -1,4 +1,4 @@
-# Clasificador de Objetos sobre una Plataforma de Stewart 
+# Clasificador de Objetos sobre una Plataforma de Stewart 🐲
 
 Una plataforma de Stewart es un robot en paralelo que posee una plataforma sujeta por 6 varillas (actuadores prismáticos) las cuales están unidas a servomotores. Las varillas colocadas en la placa superior se pueden mover en los seis grados de libertad en los que es posible mover un cuerpo libremente suspendido. Estos son los tres movimientos lineales x, y, z (lateral, longitudinal y vertical), y las tres rotaciones (x,y,z) .
 
