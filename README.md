@@ -18,25 +18,6 @@ Celdas Solares: Debido a la movilidad de esta plataforma se puede implementar pa
 
 Otras aplicaciones: En la actualidad también se usan plataformas de Stewart en campos como la ubicación de telescopios y antenas parabólicas, y podría tener muchos mas usos debido a su versatilidad y libertad de movimiento.
 
-
-### Objetivos 📋
-
-Replicar una plataforma de Stewart completamente funcional y lo más estable posible.
-
-Obtener las ecuaciones necesarias mediante análisis matemático para realizar el movimiento de la plataforma de Stewart.
-
-Implementar el movimiento de la plataforma mediante 6 ejes para las pruebas del primer prototipo mediante un control Nunchuk de la Nintendo Wii.
-
- Mediante el uso de una cámara Pixi 2 detectar la posición de una pelota roja ubicada sobre la plataforma de Stewart y controlar la posición de la plataforma para que la pelota se ubique al centro de la plataforma de manera autónoma.
-
-Desarrollar una interfaz gráfica la cual muestre en todo momento la posición de la pelota y la inclinación de la plataforma mediante alguna aplicación IOT o mediante NI LabView.
-
-Desarrollar un correcto algoritmo de control PID para posicionar la pelota al centro de la plataforma.
-
-Realizar un algoritmo de Computer Vision y Deep Learning para siempre detectar la posición de la pelota (en caso sea necesario), además el algoritmo debe reconocer los extremos de la plataforma para evitar que la pelota se caiga.
-
-Si todo sale bien, en un futuro se podría implementar el control de la pelota pero para resolver un laberinto ubicado encima de la plataforma de Stewart, y el algoritmo debe ser capaz de hacer que la pelota resuelva el laberinto de la manera más rápida posible.
-
 ### Instalación 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
@@ -101,10 +82,13 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+Entre las personas que estamos desarrollando el proyecto estamos:
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Yafhers Mendoza** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Eliceo Ocampo** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Alejandro Pacheco** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Adrian Burga** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Daniel Cuaresma** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
