@@ -22,6 +22,23 @@ El objetivo de este proyecto es implementar un <span style="color:blue; font-wei
 
 * Otras aplicaciones: En la actualidad también se usan plataformas de Stewart en campos como la ubicación de telescopios y antenas parabólicas, y podría tener muchos mas usos debido a su versatilidad y libertad de movimiento.
 
+## Materiales 👻
+
+* Servos MG90
+* ESP32
+* PCA9685
+* Batería Lipo 7.4v
+* Soporte para ESP32
+* AMB82 Mini Camera
+
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/FirstDesign.png)
+
+## Respecto a la Camara 🎲
+
+El motivo de usar una camara en nuestro proyecto es porque queremos situar la camara por encima de la plataforma para que esta detecte la posición exacta del objeto que se encuentre sobre la plataforma, y además de eso tambien detectar que objeto se encuentra sobre la plataforma. Dependiendo del tipo de objeto la plataforma se inclinará a uno de los lados para de esa manera enviar el objeto a su contenedor respectivo para así lograr clasificar los objetos.
+
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/FirstDesign.png)
+
 ## Autores ✒️
 
 Entre las personas que estamos desarrollando el proyecto estamos:
