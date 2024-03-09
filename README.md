@@ -31,13 +31,19 @@ El objetivo de este proyecto es implementar un <span style="color:blue; font-wei
 * Soporte para ESP32
 * AMB82 Mini Camera
 
-![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/CameraSupport.png)
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/AMB82Mini.png)
 
 ## Respecto a la Camara 🎲
 
 El motivo de usar una camara en nuestro proyecto es porque queremos situar la camara por encima de la plataforma para que esta detecte la posición exacta del objeto que se encuentre sobre la plataforma, y además de eso tambien detectar que objeto se encuentra sobre la plataforma. Dependiendo del tipo de objeto la plataforma se inclinará a uno de los lados para de esa manera enviar el objeto a su contenedor respectivo para así lograr clasificar los objetos.
 
-![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/AMB82Mini.png)
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/CameraSupport.png)
+
+## Nuestros Avances 🎃
+
+Nuestra primera reunión para emsanblar la base de la plataforma de Stewart y armar el circuito electrónico:
+
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/CameraSupport.png)
 
 ## Autores ✒️
 
