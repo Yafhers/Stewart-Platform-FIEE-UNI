@@ -24,13 +24,11 @@ Una plataforma de Stewart es un robot en paralelo que posee una plataforma sujet
 
 Entre las personas que estamos desarrollando el proyecto estamos:
 
-* **Yafhers Mendoza** - *Trabajo Inicial* - [yafhers](https://github.com/villanuevand)
-* **Eliceo Ocampo** - *Documentación* - [eliceo](#fulanito-de-tal)
-* **Alejandro Pacheco** - *Documentación* - [alejandro](#fulanito-de-tal)
-* **Adrian Burga** - *Documentación* - [adrian](#fulanito-de-tal)
-* **Daniel Cuaresma** - *Documentación* - [daniel](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Yafhers Mendoza** - *Líder del Equipo* - [yafhers](https://www.linkedin.com/in/yafhers-alonso-mendoza-c%C3%A9spedes-793655268/)
+* **Eliceo Ocampo** - *Integrante del Equipo* - [eliceo](https://www.linkedin.com/in/ocampo-ccoicca-eliceo-5b42a2221/)
+* **Alejandro Pacheco** - *Integrante del Equipo* - [alejandro](#fulanito-de-tal)
+* **Adrian Burga** - *Integrante del Equipo* - [adrian](#fulanito-de-tal)
+* **Daniel Cuaresma** - *Integrante del Equipo* - [daniel](#fulanito-de-tal)
 
 ## Licencia 📄
 
@@ -38,13 +36,10 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
-
+* Comentanos algo sobre el proyecto o si tienes alguna sugerencia 📢
+* Invita un café ☕ a alguien del equipo. 
+* Escribenos al correo para cualquier consulta sobre el proyecto 🤓
+* Correo: yafhers.mendoza.c@uni.pe ✉
 
 ---
 ⌨️ con ❤️ por [Yafhers](https://github.com/Yafhers) 😊
