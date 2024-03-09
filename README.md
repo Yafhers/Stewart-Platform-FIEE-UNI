@@ -18,77 +18,15 @@ Una plataforma de Stewart es un robot en paralelo que posee una plataforma sujet
 
 *Otras aplicaciones: En la actualidad también se usan plataformas de Stewart en campos como la ubicación de telescopios y antenas parabólicas, y podría tener muchos mas usos debido a su versatilidad y libertad de movimiento.
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
 ## Autores ✒️
 
 Entre las personas que estamos desarrollando el proyecto estamos:
 
-* **Yafhers Mendoza** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Eliceo Ocampo** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Alejandro Pacheco** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Adrian Burga** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Daniel Cuaresma** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Yafhers Mendoza** - *Trabajo Inicial* - [yafhers](https://github.com/villanuevand)
+* **Eliceo Ocampo** - *Documentación* - [eliceo](#fulanito-de-tal)
+* **Alejandro Pacheco** - *Documentación* - [alejandro](#fulanito-de-tal)
+* **Adrian Burga** - *Documentación* - [adrian](#fulanito-de-tal)
+* **Daniel Cuaresma** - *Documentación* - [daniel](#fulanito-de-tal)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
@@ -107,4 +45,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [Yafhers](https://github.com/Yafhers) 😊
