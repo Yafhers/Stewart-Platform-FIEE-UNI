@@ -48,12 +48,6 @@ And finally we want to show you the platform where we are making all our progres
 
 ![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/Miro.png)
 
-## The ABET fair 🎨
-
-ABET, formerly known as the Accreditation Board for Engineering and Technology, is an organization that assesses and accredits educational programs in fields such as engineering and technology, ensuring the quality of education in these domains. The ABET fair serves as a platform where students, academics, professionals, and industries come together to share advancements, research, and innovative projects. Participation in this fair offers visibility, collaboration opportunities, and expert feedback, thus fostering innovation and progress within the discipline.
-
-The ABET fair typically spans about a month, and our team has been preparing for two months, with a projected timeline of six months to complete and present our project.
-
 # Second Project: Autonomous Car with STM32 for Farmers Roads 🐲
 
 This project consists of making a farmer's car capable of moving on Peruvian farm roads. This car in the future will have a robotic arm and will carry out its autonomous movement thanks to a camera. We are still carrying out this project at the same time, but here I show some progress:
@@ -64,6 +58,14 @@ The camera should be in the front blue part, but we have not implemented it yet 
 This cart has been programmed in STM 32 Cube IDE and we are still learning, in the future we will have to use STM32 Cube AI to implement the camera:
 
 ![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/STM32.png)
+
+## The ABET fair 🎨
+
+ABET, formerly known as the Accreditation Board for Engineering and Technology, is an organization that assesses and accredits educational programs in fields such as engineering and technology, ensuring the quality of education in these domains. The ABET fair serves as a platform where students, academics, professionals, and industries come together to share advancements, research, and innovative projects. Participation in this fair offers visibility, collaboration opportunities, and expert feedback, thus fostering innovation and progress within the discipline.
+
+The ABET fair typically spans about a month, and our team has been preparing for two months, with a projected timeline of six months to complete and present our project.
+
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/feria%20abet.png)
 
 ## Authors ✒️
 
