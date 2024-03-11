@@ -40,6 +40,14 @@ Our first meeting to assemble the base of Stewart's platform and set up the elec
 
 ![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/1.jpg)
 
+This is a photo of the circuit we made to test the operation of the servos:
+
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/TestPlatform.jpg)
+
+And finally we want to show you the platform where we are making all our progress, the platform we are using is Miro and it is great how we are moving forward with Miro:
+
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/Miro.png)
+
 ## The ABET fair 🎨
 
 ABET, formerly known as the Accreditation Board for Engineering and Technology, is an organization that assesses and accredits educational programs in fields such as engineering and technology, ensuring the quality of education in these domains. The ABET fair serves as a platform where students, academics, professionals, and industries come together to share advancements, research, and innovative projects. Participation in this fair offers visibility, collaboration opportunities, and expert feedback, thus fostering innovation and progress within the discipline.
@@ -53,6 +61,9 @@ This project consists of making a farmer's car capable of moving on Peruvian far
 ![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/AutonomousCar.jpg)
 
 The camera should be in the front blue part, but we have not implemented it yet 👻
+This cart has been programmed in STM 32 Cube IDE and we are still learning, in the future we will have to use STM32 Cube AI to implement the camera:
+
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/STM32.png)
 
 ## Authors ✒️
 
