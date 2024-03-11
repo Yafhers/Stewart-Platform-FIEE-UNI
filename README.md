@@ -50,7 +50,9 @@ The ABET fair typically spans about a month, and our team has been preparing for
 
 This project consists of making a farmer's car capable of moving on Peruvian farm roads. This car in the future will have a robotic arm and will carry out its autonomous movement thanks to a camera. We are still carrying out this project at the same time, but here I show some progress:
 
+![Texto alternativo](https://github.com/Yafhers/Stewart-Platform-FIEE-UNI/blob/main/Stewart%20Platform%20FIEE%20UNI/Images/AutonomousCar.jpg)
 
+The camera should be in the front blue part, but we have not implemented it yet 👻
 
 ## Authors ✒️
 
