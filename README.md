@@ -1,4 +1,4 @@
-# Object Classifier on a Stewart Platform 🐲
+# First Project: Object Classifier on a Stewart Platform 🐲
 
 A Stewart platform is a parallel robot that has a platform supported by 6 rods (prismatic actuators) which are attached to servomotors. The rods placed on the top plate can move in the six degrees of freedom in which it is possible to move a freely suspended body. These are the three linear movements x, y, and z (lateral, longitudinal and vertical), and the three rotations (x, y, and z).
 
@@ -45,6 +45,12 @@ Our first meeting to assemble the base of Stewart's platform and set up the elec
 ABET, formerly known as the Accreditation Board for Engineering and Technology, is an organization that assesses and accredits educational programs in fields such as engineering and technology, ensuring the quality of education in these domains. The ABET fair serves as a platform where students, academics, professionals, and industries come together to share advancements, research, and innovative projects. Participation in this fair offers visibility, collaboration opportunities, and expert feedback, thus fostering innovation and progress within the discipline.
 
 The ABET fair typically spans about a month, and our team has been preparing for two months, with a projected timeline of six months to complete and present our project.
+
+# Second Project: Autonomous Car with STM32 for Farmers Roads 🐲
+
+This project consists of making a farmer's car capable of moving on Peruvian farm roads. This car in the future will have a robotic arm and will carry out its autonomous movement thanks to a camera. We are still carrying out this project at the same time, but here I show some progress:
+
+
 
 ## Authors ✒️
 
