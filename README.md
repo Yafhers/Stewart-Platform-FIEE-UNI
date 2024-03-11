@@ -61,7 +61,7 @@ Among the people who are developing the project are:
 * **Yafhers Mendoza** - *Team Leader* - [yafhers](https://www.linkedin.com/in/yafhers-alonso-mendoza-c%C3%A9spedes-793655268/)
 * **Eliceo Ocampo** - *Team Member* - [eliceo](https://www.linkedin.com/in/ocampo-ccoicca-eliceo-5b42a2221/)
 * **Alejandro Pacheco** - *Team Member* - [alejandro](#fulanito-de-tal)
-* **Adrian Burga** - *Team Member* - [adrian](#fulanito-de-tal)
+* **Adrian Burga** - *Team Member* - [adrian](https://www.linkedin.com/in/adri%C3%A1n-alonso-burga-delgado-7250812ab/)
 * **Daniel Cuaresma** - *Team Member* - [daniel](#fulanito-de-tal)
 
 ## Expressions of Gratitude 🎁
